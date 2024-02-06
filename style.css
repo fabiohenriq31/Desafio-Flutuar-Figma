@@ -1,0 +1,43 @@
+body{
+  margin: 0 auto;
+  text-align: center;
+}
+#container {
+  width: 626px;
+  height: 486px;
+  margin: 0 auto 64px;
+}
+h1 span{
+  color: #EE24FF;
+}
+h1 {
+  font-family: 'Dosis', sans-serif;
+  font-size: 32px;
+  color: #3F3D56;
+}
+p span{
+  color: #3F3D56;
+  font-weight: bold;
+}
+p {
+  color: #828282;
+  font-family: 'Open Sans', sans-serif;
+}
+#name-enterprise{
+  color: #828282;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+}
+#line{
+  width: 391px;
+  border: solid 1px #ECEFF2;
+  margin: auto auto 16px;
+  
+}
+footer a{
+  text-decoration: none;
+  color: #3F3D56;
+  margin-left: 42px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+}
